@@ -1,0 +1,30 @@
+# Core
+pyspark>=3.5
+numpy
+pandas
+
+# ML / Deep Learning
+scikit-learn
+tensorflow
+statsmodels
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Web
+flask
+flask-cors
+streamlit
+
+# Data
+kagglehub
+
+# Testing
+pytest
+
+# Spark helpers (optional, not used in pip-installed PySpark setup)
+# findspark
+
+ipykernel
